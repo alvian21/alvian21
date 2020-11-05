@@ -1,6 +1,5 @@
-[![Header](https://raw.githubusercontent.com/MartinHeinz/<OWNER>/<OWNER>/readme_header.png "Header")](https://some-url.dev/)
 ### Hi there 👋
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=alvian21)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=alvian21&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **alvian21/alvian21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
